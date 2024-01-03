@@ -1,3 +1,3 @@
-from c_lib.module import add
+from c_lib import add
 
 print(add(1, 2))

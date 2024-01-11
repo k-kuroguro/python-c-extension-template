@@ -1,4 +1,4 @@
-# Python Extension by C Example
+# Python C-Extension Template
 
 Call C from Python.
 
